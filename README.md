@@ -9,7 +9,7 @@ It is an emulation of an ATM's operation.
 - Name: ATM Source.
 - Independent developer: Yaroslav Kronvald (K1IINeT)
 
-- Start of work: 16.01.2026.
+- Start of work: 16.02.2026.
 - End of work: ?
 
 
